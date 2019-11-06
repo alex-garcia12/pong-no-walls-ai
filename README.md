@@ -22,3 +22,8 @@ Doesn't Really Work
 -Top/Bottom paddles were not implemented
 
 -AI player was not implemented. As a result, the intended speed/difficulty the player would be able to change in the main menu was not implemented.
+
+==============================================================================
+
+![Pong Title Screen](https://cdn.discordapp.com/attachments/489600593741086723/641653799697645628/title.png)
+![Pong Mid-Game](https://cdn.discordapp.com/attachments/489600593741086723/641653798716178435/game.png)
